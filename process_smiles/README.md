@@ -9,7 +9,7 @@ The scheme of the 2nd line works as follow:
 * experimental boiling point (degC)
 * experimental melting point (degC)
 
-###Used dependicies:
+### Used dependicies:
 -------------------
 Here, I used the awesome Leruli tool and rdkit <br>
 for more about Leruli, please check https://www.leruli.com/ installable using: pip install leruli <br>
@@ -21,7 +21,7 @@ ofcourse, those functionalities are implemented in so many libraries, I just fin
 What I like in Leruli is that it gives so many useful information in a efficient way and free of charge
 
 
-###example:
+### example:
 --------
 Aspirin.xyz
 <br>14
