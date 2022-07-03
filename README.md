@@ -2,7 +2,7 @@
  
 Generate xyz files from smiles and fetch some experimental properties
 ---------------------------------------------------------------------
-In the folder: "process_smiles" [process smiles] (https://github.com/KarimElgammal/cheminformatics/tree/main/process_smiles)
+In the folder: "process_smiles" [process smiles] (https://github.com/KarimElgammal/cheminformatics/blob/main/process_smiles/smiles2xyz.ipynb)
 , I wrote simple code with different functionalities to convert a list of smiles stored in an excel sheet to xyz while storing multiple related details in the 2nd line of each of the xyz files
 The scheme of the 2nd line works as follow:
 * molecule name
