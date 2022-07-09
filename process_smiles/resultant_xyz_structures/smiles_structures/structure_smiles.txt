@@ -1,0 +1,14 @@
+Aspirin.xyz					C1COCCO1
+Aspirin.xyz					C1COCCO1
+Benzene.xyz					c1ccccc1
+Benzene.xyz					c1ccccc1
+Decalin.xyz					C1CC[C@H]2CCCC[C@H]2C1
+Decalin_plams.xyz					C1CC[C@@H]2CCCC[C@H]2C1
+Methane.xyz					C
+Methane.xyz					C
+Nitrobenzene.xyz					c1c(N(=O)=O)cccc1
+Nitrobenzene_plams.xyz					O=N(=O)c1ccccc1
+Toluene.xyz					c1c(C)cccc1
+Toluene_plams.xyz					Cc1ccccc1
+pyridine.xyz					n1ccccc1
+pyridine_plams.xyz					c1ccncc1
