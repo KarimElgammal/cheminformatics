@@ -51,6 +51,7 @@ Please feel free to recommend other tools or corrections to this code!
 <br>
 
 <br>
+
 # Generate smiles list from a given xyz files
 ---------------------------------------------------------------------
 A code inspired from the kaggle challenge solution (https://www.kaggle.com/code/roccomeli/easy-xyz-to-smiles-conversion/notebook by Rocco Meli) that can convert xyz to smiles in case you need such format in your calculations
